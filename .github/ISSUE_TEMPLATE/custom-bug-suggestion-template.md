@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **Mod Version:** 1.0
+**Mod Loader:** Fabric or Forge
 
 **How to replicate:**
 - Do this
